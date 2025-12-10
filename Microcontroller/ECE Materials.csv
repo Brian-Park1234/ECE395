@@ -1,0 +1,11 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP
+"C1,C2,C3,C4,C5,C6,C7,C8",0.1uf,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,8,
+"D1,D2",power,~,Diode_SMD:D_0805_2012Metric,2,
+"J2,J3",Conn_01x03_Socket,~,Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal,2,
+PWRregu1,TC1262-33,http://ww1.microchip.com/downloads/en/DeviceDoc/21373C.pdf,Package_TO_SOT_SMD:SOT-223-3_TabPin2,1,
+"R1,R2",330,~,Resistor_SMD:R_0805_2012Metric,2,
+R3,10k,~,Resistor_SMD:R_0805_2012Metric,1,
+ST-Link1,Conn_01x04_Pin,~,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,
+SW1,SW_SPST,~,Button_Switch_THT:SW_PUSH_6mm,1,
+U3,STM32F411CEUx,https://www.st.com/resource/en/datasheet/stm32f411ce.pdf,Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm,1,
+USBC1,USB_C_Receptacle_USB2.0_14P,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,Connector_USB:USB_C_Receptacle_GCT_USB4085,1,
